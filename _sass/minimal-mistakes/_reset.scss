@@ -14,12 +14,14 @@ html {
     font-size: 18px;
   }
 
+  // Large page font size (default : 20px)
   @include breakpoint($large) {
-    font-size: 20px;
+    font-size: 19px;
   }
 
+  // default : 22px
   @include breakpoint($x-large) {
-    font-size: 22px;
+    font-size: 20px;
   }
 
   -webkit-text-size-adjust: 100%;
