@@ -1,6 +1,7 @@
 ---
-title: "Baekjoon problem step10 recursive (재귀)"
-excerpt: "Step10 재귀 풀이집입니다."
+title: "Baekjoon problem step17 cumulative sum
+ (누적 합)"
+excerpt: "Step17 누적 합 풀이집입니다."
 date: 2022-11-08
 categories:
     - Algorithm
@@ -8,10 +9,10 @@ tags:
     - Baekjoon
 last_modified_at: 2022-11-08
 ---
-- Step10 재귀 풀이집입니다.
+- Step17 누적 합 풀이집입니다.
 
 # recursive, 재귀
-재귀 - [step 10 문제 리스트](https://www.acmicpc.net/step/10)  
+재귀 - [step 17 `문제 리스트](https://www.acmicpc.net/step/10)  
 재귀함수를 활용하는 방법을 배웁니다.  
 
 ## 10-1. 10872번, 팩토리얼
